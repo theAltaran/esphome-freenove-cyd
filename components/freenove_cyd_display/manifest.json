@@ -1,11 +1,11 @@
 {
-  "documentation": "https://github.com/altaran/esphome-freenove-cyd",
+  "documentation": "https://github.com/theAltaran/esphome-freenove-cyd",
   "version": "1.0.0",
   "dependencies": {
     "esphome": ">=2024.1.0"
   },
   "codeowners": [
-    "@altaran"
+    "@theAltaran"
   ],
   "requirements": [
     "Bodmer/TFT_eSPI @ ^2.5.30"

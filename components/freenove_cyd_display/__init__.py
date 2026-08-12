@@ -3,7 +3,7 @@ import esphome.config_validation as cv
 from esphome.components import uart
 from esphome.const import CONF_ID
 
-CODEOWNERS = ["@altaran"]
+CODEOWNERS = ["@theAltaran"]
 DEPENDENCIES = ["spi"]
 
 CONF_FREENOVE_CYD_DISPLAY = "freenove_cyd_display"
